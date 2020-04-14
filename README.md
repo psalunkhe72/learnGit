@@ -1,2 +1,2 @@
 # learnGit
-To understand Git and GitHub
+To understand and learn Git and GitHub
